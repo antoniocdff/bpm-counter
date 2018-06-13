@@ -72,7 +72,7 @@
 """Timer for counting something regular, like the beats of music.
 """
 
-__author__ = 'dieter@duenenhof-wilhelm.de (Dieter Wilhelm)'
+__author__ = 'antoniocarlosdff@gmail.com (Tony Dias)'
 _version = "1.4"
 
 # --- os checking ---
